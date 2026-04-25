@@ -61,3 +61,4 @@ To demonstrate how real-time data pipelines + Power BI dashboards can be used to
 👨‍💻 Author
 
 Harkaran Singh Marwaha
+<img width="1119" height="749" alt="Screenshot 2026-04-25 145854" src="https://github.com/user-attachments/assets/f003d851-c318-4773-903b-d0cf2c4fdb37" />
