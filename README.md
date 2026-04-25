@@ -1,4 +1,4 @@
-📊 Project Title
+📊 
 Live API Data Integration: Real-Time Dashboards with Python & Power BI
 
 🎯 Problem Statement
