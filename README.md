@@ -1,8 +1,11 @@
-📊 Live API Data Integration: Real-Time Dashboards with Python & Power BI
+📊 Project Title
+Live API Data Integration: Real-Time Dashboards with Python & Power BI
+
+🎯 Problem Statement
+Organizations need real-time insights from constantly updating global data sources to make faster decisions.
+
 🚀 Project Overview
-
 This project builds a real-time interactive dashboard using Python and Power BI to analyze global socio-economic and health indicators. The system automatically fetches updated data from a public API, processes it using Python, and visualizes it in Power BI for live insights.
-
 This eliminates manual data updates and enables automated, real-time decision-making dashboards.
 
 🧰 Tools & Technologies
@@ -12,12 +15,14 @@ This eliminates manual data updates and enables automated, real-time decision-ma
 3.REST API (Public Data Sources)
 4.Data Visualization
 5.DAX (for analytics in Power BI)
+
 🔗 Data Pipeline
 Data is fetched from a public API using Python
 Data is cleaned and transformed using Pandas
 Processed data is loaded into Power BI
 Power BI dashboard visualizes real-time insights
 Automatic refresh ensures updated information
+
 📌 Key Business Questions Answered
 1. Global Economic & Social Overview
 Average GDP per capita
@@ -43,11 +48,14 @@ Strong correlation between economic development and health expenditure
 Clear regional disparities in healthcare investment
 Internet penetration may contribute to lower unemployment in developing regions
 📊 Dashboard Features
+
 Interactive filters by country and region
 Correlation heatmaps for indicator analysis
 Time-series trend analysis
 Comparative regional dashboards
 Automated data refresh via API integration
+
+
 🎯 Project Goal
 
 To demonstrate how real-time data pipelines + Power BI dashboards can be used to track global development indicators and support data-driven decision-making.
